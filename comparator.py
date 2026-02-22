@@ -26,6 +26,6 @@ num1= len(name)
 if num1< 4:
     print("your name is less than 4 characters")
 elif num1>=4 and num1<=10:
-    print("your name is ore than 4 charracters")
+    print("your name is more than 4 charracters")
 else:
    print("your name is too long..........")
