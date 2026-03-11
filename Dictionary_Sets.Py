@@ -8,7 +8,7 @@ print(infor)
 newInfo={
     "College Name" :"Rahullearning center",
     "Language":["c","c++","Java","C#","Python"],
-    "studentGender":{"male","Female"},# commonly only tuples care used as key value
+    "studentGender":{"male","Female"},# commonly only tuples can used as key value
     "stuName" :"Bhuvan",
     "Age":"2",
     "course mode":{"online","offline"},
